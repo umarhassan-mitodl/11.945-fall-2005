@@ -1,0 +1,68 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Regional Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "883aa060-7194-4110-179d-19ac469a62fc",
+  "instructors": {
+    "content": [
+      "897fe0f3-f801-8ef6-ec09-60e6c0cca89b",
+      "55e997b5-0472-ba37-6618-35fb09255e90"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e420eaaf-58e1-9c80-bdf8-d270a4312373",
+    "website": "11-945-springfield-studio-fall-2005"
+  },
+  "course_title": "Springfield Studio",
+  "course_description": "The Springfield Studio is a practicum course that focuses on the economic, programmatic and social renewal of an urban community in Springfield, Massachusetts by combining classroom work with an applied class project. The course content covers the areas of neighborhood economic development and the related analysis and planning tools used to understand and assess urban conditions from an economic and community development perspective.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.945",
+  "course_image_thumbnail": {
+    "content": "82354594-5420-0c65-6db9-bd6e073b774e",
+    "website": "11-945-springfield-studio-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Image Gallery",
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Projects with Examples"
+  ],
+  "site_uid": "60e69feb-78cc-46e8-b6fe-b84d730e5450",
+  "site_short_id": "11.945-fall-2005",
+  "site_url_path": "courses/11-945-springfield-studio-fall-2005",
+  "title": "Course Metadata"
+}
