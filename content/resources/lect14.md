@@ -6,6 +6,8 @@ description: This resource discusses structuring an economic development strateg
 file: /courses/11-945-springfield-studio-fall-2005/104c788ffd146721b688f1f9a760e89c_lect14.pdf
 file_size: 24693
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

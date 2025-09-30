@@ -4,6 +4,8 @@ description: A small grocery market on Main Street. Image Courtesy of Bill Massa
 file: /courses/11-945-springfield-studio-fall-2005/bdeef3943377b0fa32ff575a250a9d76_09_main_st_market.jpg
 file_size: 75817
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: A small grocery market on Main Street.
   credit: Image Courtesy of Bill Massaquoi.

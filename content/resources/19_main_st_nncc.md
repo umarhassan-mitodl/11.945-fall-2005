@@ -5,6 +5,8 @@ description: The New North Citizen's Council is also located on Main Street. Ima
 file: /courses/11-945-springfield-studio-fall-2005/1f417a4ed858f67289122013c682cab6_19_main_st_nncc.jpg
 file_size: 73710
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: The New North Citizen's Council is also located on Main Street.
   credit: Image Courtesy of Bill Massaquoi.

@@ -5,6 +5,8 @@ description: This resource discusses an agenda for the economic development plan
 file: /courses/11-945-springfield-studio-fall-2005/793de0a7552cfaec5264f250beef85bf_lect5.pdf
 file_size: 39373
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -65,9 +65,9 @@ Regional Context: Greater Springfield Economy
 
 *Regional Labor Market Profile, Hampden County, Summer 2004*.
 
-Porter, Michael E. *Regional Competitiveness in the Pioneer Valley*. Cambridge, MA: Harvard Business School Institute for Strategy and Competitiveness, 2003. ({{% resource_link "e197bf3c-c920-457b-a73d-f5c724b23cb5" "PDF" %}})
+Porter, Michael E. *Regional Competitiveness in the Pioneer Valley*. Cambridge, MA: Harvard Business School Institute for Strategy and Competitiveness, 2003. ([PDF](http://www.hbs.edu/faculty/Publication%20Files/MA_RCC_PioneerValley_eed60f82-6b7d-418f-98a1-32a10981cc7b.pdf))
 
-*Pioneer Valley Plan for Progress: Economic Strategies for the Region*. ({{% resource_link "3968d2ef-32ca-448c-93ae-0663f56402d9" "PDF - 3.4 MB" %}})
+*Pioneer Valley Plan for Progress: Economic Strategies for the Region*. ([PDF - 3.4 MB](http://www.pvpc.org/sites/default/files/06_pfp_bk.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -91,7 +91,7 @@ Work Session
 
 Reese and Fasenfest. "What works best: Values and evaluation of local economic development policy." In *Approaches to Economic Development*. Edited by Blair and Reese. Thousand Oaks, CA: Sage Publications, 1999, pp. 278-291. ISBN: 0761918841.
 
-Organizational Research Services. {{% resource_link "08e0e914-87ae-481a-8781-eb3ede01970d" "*Theory of Change: A Practical Tool for Action, Results and Learning*" %}}, 2004, pp. 1-17.
+Organizational Research Services. [*Theory of Change: A Practical Tool for Action, Results and Learning*](http://www.issuelab.org/research/theory_of_change_a_practical_tool_for_action_results_and_learning), 2004, pp. 1-17.
 
 Ross and Freidman. "The emerging third wave: New economic development strategies." In *Local Economic Development: Strategies for a Changing Economy*. Edited by Fosler. Washington, DC: International City/County Management Association, pp. 125-137. ISBN: 0873260856.
 
@@ -151,7 +151,7 @@ ED Policies and Practices: Enterprise and Small Business Development
 
 Blakely. *Planning Local Economic Development*. Thousand Oaks, CA: Sage Publications, 2002, chapter 8, pp. 217-235 and 248-249. ISBN: 0761924582.
 
-Edgcomb, Elaine, and Joyce Klein. *Opening Opportunities, Building Ownership: Fulfilling the Promise*. Washington, DC: Aspen Institute, chapters 1 and 2, pp. 9-31 (chapters 3 and 4 optional). ISBN: 0898434300. ({{% resource_link "3cb914b5-2b53-40a6-81e2-a8d2ed58978c" "PDF - 1.2 MB" %}})
+Edgcomb, Elaine, and Joyce Klein. *Opening Opportunities, Building Ownership: Fulfilling the Promise*. Washington, DC: Aspen Institute, chapters 1 and 2, pp. 9-31 (chapters 3 and 4 optional). ISBN: 0898434300. ([PDF - 1.2 MB](https://www.aspeninstitute.org/wp-content/uploads/2005/02/OpeningOpportunities.pdf))
 
 Kumar, Tara. "Informal microenterprise in the North End community-Springfield, MA." MCP Thesis, MIT, 2004, pp. 43-106.
 
@@ -161,11 +161,11 @@ Kumar, Tara. "Informal microenterprise in the North End community-Springfield, M
 ED Policies and Practices: Workforce Development
 {{< tdclose >}}{{< tdopen >}}
 
-Fleischer. *Extending Ladders: Findings from the Annie E. Casey Foundation's Jobs Initiative*, pp. 4-27. ({{% resource_link "0cc91014-72a1-4fa0-a34d-b08997a688a7" "PDF - 1.8 MB" %}})
+Fleischer. *Extending Ladders: Findings from the Annie E. Casey Foundation's Jobs Initiative*, pp. 4-27. ([PDF - 1.8 MB](https://files.eric.ed.gov/fulltext/ED465069.pdf))
 
 Mt. Auburn Associates. *Workforce Development Strategy for Weinland Park Neighborhood*.
 
-Proscio, Tony. {{% resource_link "5008a49c-6ca2-44a9-a43c-1960de66b64b" "*Structures of Opportunity: Developing the Neighborhood Jobs Initiative in Fort Worth, Texas*" %}}. Oakland, CA: Manpower Demonstration Research Corporation, 2002, pp. 1-29.
+Proscio, Tony. [*Structures of Opportunity: Developing the Neighborhood Jobs Initiative in Fort Worth, Texas*](http://www.mdrc.org/publications/73/overview.html). Oakland, CA: Manpower Demonstration Research Corporation, 2002, pp. 1-29.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -189,7 +189,7 @@ Blakely. *Planning Local Economic Development*. Thousand Oaks, CA: Sage Publicat
 
 Martínez Hernández, Hernandez, Manuel Martinez. "Impact of Commercial Development on inner City Revitalization: An Analysis of Projects in Boston." M.C.P Thesis, MIT, 2001, pp. 20-40, 58-65, 89-95, and 115-124.
 
-Seidman, Karl. {{% resource_link "5890b181-5009-4c83-b963-b16d7a3c321b" "*Revitalizing Commerce for American Cities*" %}}. Fannie Mae Foundation, 2004, chapters 1-3 and St Paul Case Studies, pp. 3-14 and 59-72.
+Seidman, Karl. [*Revitalizing Commerce for American Cities*](https://www.innovations.harvard.edu/revitalizing-commerce-american-cities-practitioners-guide-urban-main-street-programs). Fannie Mae Foundation, 2004, chapters 1-3 and St Paul Case Studies, pp. 3-14 and 59-72.
 
 Simons, Robert A. *Turning Brownfields Into Greenbacks: Developing and Financing Environmentally Contaminated Urban Real Estate*. Washington, DC: Urban Land Institute, 1998, pp. 100-110. ISBN: 0874208513.
 
@@ -201,7 +201,7 @@ ED Policies and Practices: Capital Market and Financing
 
 Seidman. *Economic Development Finance*. Thousand Oaks, CA: Sage Publications, 2004, chapter 1 and 10, pp. 5-18 and 217-239. ISBN: 0761927093.
 
-Benjamin, Rubin, and Zielenbach. *Community Development Financial Institutions: Current Issues and Future Prospects*. ({{% resource_link "484e316d-1179-43be-919b-7356e0bba2b9" "PDF" %}})
+Benjamin, Rubin, and Zielenbach. *Community Development Financial Institutions: Current Issues and Future Prospects*. ([PDF](http://www.federalreserve.gov/communityaffairs/national/CA_Conf_SusCommDev/pdf/zeilenbachsean.pdf))
 
 Grzywinski. *The New Old Fashioned Banking, Harvard Business Review*. (May-June 1991): 87-98.
 

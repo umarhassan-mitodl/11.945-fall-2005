@@ -5,6 +5,8 @@ description: This housing typology is more common in the Brightwood neighborhood
 file: /courses/11-945-springfield-studio-fall-2005/3abef865f6ee1a2dab1aff0f67ba915b_02_single_family_home.jpg
 file_size: 79467
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This housing typology is more common in the Brightwood neighborhood.
   credit: Image Courtesy of Bill Massaquoi.

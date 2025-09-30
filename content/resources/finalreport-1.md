@@ -6,6 +6,8 @@ description: 'This resource contains information on building in the present, gro
 file: /courses/11-945-springfield-studio-fall-2005/c82203acc3217a313472191ba664d770_finalreport.pdf
 file_size: 7350048
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

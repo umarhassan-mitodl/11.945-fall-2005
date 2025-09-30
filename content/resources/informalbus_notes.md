@@ -8,6 +8,8 @@ description: During the semester, students determined that they needed to conduc
 file: /courses/11-945-springfield-studio-fall-2005/22a8d7c0e0f4875e570321e0379faf45_informalbus_notes.pdf
 file_size: 91469
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -44,6 +44,7 @@
     "website": "11-945-springfield-studio-fall-2005"
   },
   "course_title": "Springfield Studio",
+  "hide_download": true,
   "course_description": "The Springfield Studio is a practicum course that focuses on the economic, programmatic and social renewal of an urban community in Springfield, Massachusetts by combining classroom work with an applied class project. The course content covers the areas of neighborhood economic development and the related analysis and planning tools used to understand and assess urban conditions from an economic and community development perspective.\n",
   "department_numbers": [
     "11"
@@ -54,6 +55,7 @@
     "content": "82354594-5420-0c65-6db9-bd6e073b774e",
     "website": "11-945-springfield-studio-fall-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Image Gallery",

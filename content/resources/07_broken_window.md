@@ -5,6 +5,8 @@ description: Some of the housing suffers from poor maintenance. Image Courtesy o
 file: /courses/11-945-springfield-studio-fall-2005/a6dc84c7656c0bac369419f1060b73cb_07_broken_window.jpg
 file_size: 76966
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Some of the housing suffers from poor maintenance.
   credit: Image Courtesy of Bill Massaquoi.

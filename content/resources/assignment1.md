@@ -6,6 +6,8 @@ description: This resource discusses preparation of report and brief summary  on
 file: /courses/11-945-springfield-studio-fall-2005/24b13786096864b750384fdcfa1ea5bd_assignment1.pdf
 file_size: 20433
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

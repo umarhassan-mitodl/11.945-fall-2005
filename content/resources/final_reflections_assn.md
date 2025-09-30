@@ -5,6 +5,8 @@ description: Students are asked to engage in a final critical moments reflection
 file: /courses/11-945-springfield-studio-fall-2005/f1eddd0458e0ff5f6fb6aaba7d7422bb_final_reflections_assn.pdf
 file_size: 7525
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

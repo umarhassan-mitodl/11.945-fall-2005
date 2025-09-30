@@ -5,6 +5,8 @@ description: Apartment buildings are common near Main Street. Image Courtesy of 
 file: /courses/11-945-springfield-studio-fall-2005/d9de41e2ac6ea5c0f4050a6b41cf0934_01_apt_bldg.jpg
 file_size: 65274
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Apartment buildings are common near Main Street.
   credit: Image Courtesy of Bill Massaquoi.
