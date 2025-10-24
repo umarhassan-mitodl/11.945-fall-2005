@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-945-springfield-studio-fall-2005/df452abf3785c26ce7411ca31397a4a4_lect3_slides.pdf
 file_size: 138492
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

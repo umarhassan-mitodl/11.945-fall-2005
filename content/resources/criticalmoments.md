@@ -6,8 +6,6 @@ description: 'Course reading. Amulya, Joy. "Summary of Critical Moments Reflecti
 file: /courses/11-945-springfield-studio-fall-2005/4bcf2a419a59676f158e80d0c40c1ee9_criticalmoments.pdf
 file_size: 350111
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

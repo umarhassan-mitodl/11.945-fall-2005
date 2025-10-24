@@ -4,8 +4,6 @@ description: Complete set of student responses to the final reflections assignme
 file: /courses/11-945-springfield-studio-fall-2005/c46e1be6399b396bb1de3fb196f7f2cb_final_reflections.pdf
 file_size: 89521
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: A nail salon in the strip mall on Main Street. Image Courtesy of Bi
 file: /courses/11-945-springfield-studio-fall-2005/95a4b8ef53a12ad02a61cd59f7be6e3a_16_main_st_nails.jpg
 file_size: 62614
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: A nail salon in the strip mall on Main Street.
   credit: Image Courtesy of Bill Massaquoi.

@@ -2,8 +2,6 @@
 content_type: page
 description: 'The image gallery section contains images for the following topics:
   housing, businesses, schools, and transportation.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 show_section_pages: true

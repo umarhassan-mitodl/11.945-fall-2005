@@ -5,8 +5,6 @@ description: A laundromat in the strip mall on Main Street. Image Courtesy of Bi
 file: /courses/11-945-springfield-studio-fall-2005/0345d43e38d660447fcffaf3c4f77714_15_main_st_laundry.jpg
 file_size: 60781
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: A laundromat in the strip mall on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
